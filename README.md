@@ -3,10 +3,15 @@ The background management system of the music system is convenient for the admin
 
 ## Technical architecture
 **Framework**: Vue2
+
 **Build tool**: Webpack
+
 **UI library**: Element-UI
+
 **Route management**: Vue Router
+
 **Status management**: Vuex
+
 **Data request**: Axios
 
 ## Run command
